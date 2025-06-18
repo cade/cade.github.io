@@ -278,4 +278,7 @@ p:has(+h2) {
   .page-break {
     break-after: page;
   }
+  .no-print {
+    display: none;
+  }
 }
